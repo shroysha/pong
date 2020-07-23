@@ -2,7 +2,7 @@
 > see JavaDoc: [JavaDoc](docs/javadoc/index.html)
 
 ## Description
-A simple pong applet
+Pong applet
 
 ### Tags
 [Groovy, Application]
